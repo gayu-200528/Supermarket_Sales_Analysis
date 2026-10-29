@@ -4,11 +4,9 @@
 ###### \## 📌 **Project Overview**
 
 
-\- This project focuses on analyzing supermarket sales data to understand sales patterns, product line performance, and customer preferences.
-
-\- It demonstrates a data analytics workflow, including data cleaning, exploratory data analysis (EDA), data visualization, and business insight generation using Python.
-
-\- The project uses charts and statistical analysis to explore sales distribution, payment methods, and customer ratings.
+- This project focuses on analyzing supermarket sales data to understand sales patterns, product line performance, and customer preferences.
+-  It demonstrates a data analytics workflow, including data cleaning, exploratory data analysis (EDA), data visualization, and business insight generation using Python.
+- The project uses charts and statistical analysis to explore sales distribution, payment methods, and customer ratings.
 
 
 
