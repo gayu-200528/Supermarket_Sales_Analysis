@@ -1,7 +1,7 @@
 # \# **Supermarket Sales Analysis**
 
 
-###### \## 📌 **Project Overview**
+###### \##  **Project Overview**
 
 
 - This project focuses on analyzing supermarket sales data to understand sales patterns, product line performance, and customer preferences.
@@ -10,7 +10,7 @@
 
 
 
-###### \## 🎯 **Project Objectives**
+###### \##  **Project Objectives**
 
 \- Understand and explore supermarket sales data.
 
@@ -28,7 +28,7 @@
 
 
 
-###### \## 🛠️ **Skills \& Tools Used** 
+###### \##  **Skills \& Tools Used** 
 
 \- Python
 
@@ -51,7 +51,7 @@
 \- Business Analytics
  
 
- ## 📂 **Dataset Information**
+ ##  **Dataset Information**
 
 
 \- \*\*Dataset Name:\*\* Supermarket Sales Dataset(with missing value)
@@ -77,7 +77,7 @@
 
 
 
-###### \## **🔍 Project Workflow**
+###### \## ** Project Workflow**
 
 ###### \### 1. **Data Loading \& Understanding**
  
@@ -132,7 +132,7 @@ The analysis included:
 
 
 
-###### \## 📊 **Key Business Insights**
+###### \##  **Key Business Insights**
 
  
 
@@ -163,9 +163,6 @@ The analysis included:
 
 
 ###### \## ✅ **Final Conclusion**
-
- 
-
 This project analyzed supermarket sales data using Python and data visualization techniques. The analysis explored product line performance, sales distribution, payment methods, and customer ratings. The results help understand sales patterns and support data-driven business decisions.
 
 
